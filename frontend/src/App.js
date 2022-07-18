@@ -1,10 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Header from './components/Header';
+import Header from './Components/Header';
 
 function App() {
   return (
     <div>
-      <Header></Header>
+      <Header />
     </div>
   );
 }
